@@ -1,1 +1,1 @@
-# Hacker_Earth_compitation_files
+# Hacker_Earth_competition_files
